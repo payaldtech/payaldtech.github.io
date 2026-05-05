@@ -57,6 +57,8 @@ plugins:
 
 author:
   name: Payal Dhiman
+  avatar: /assets/images/bio-photo.jpg
+  bio: "Technical Writer | UX Writer | Business Analyst | Wellington NZ"
   email: payal.dhiman2005@gmail.com
   links:
     - label: LinkedIn
