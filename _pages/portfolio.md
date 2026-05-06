@@ -4,7 +4,7 @@ permalink: /portfolio/
 ---
 
 A selection of published writing samples across technical documentation, 
-API references, tutorials, and UX content produced during my time at Google.
+API references, and tutorials produced during my time at Google.
 
 ---
 
@@ -88,7 +88,7 @@ and user navigation across a large reference section.
 ## Conference Presentations
 
 **Write the Docs Auckland 2019**
-Presented on user documentation best practices at Write the Docs Auckland. 
+Presented on user documentation best practices at Write the Docs Sydney. 
 Slides cover documentation strategy, user needs, and content design.
 [View sample](https://www.slideshare.net/slideshow/user-documentation-write-the-docs-nov-2019/195103206)
 
