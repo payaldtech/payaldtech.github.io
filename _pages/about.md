@@ -1,6 +1,8 @@
 ---
 title: " "
 permalink: /
+layout: single
+author_profile: true
 ---
 
 <div style="text-align: center; padding: 20px 0;">
