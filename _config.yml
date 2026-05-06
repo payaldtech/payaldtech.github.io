@@ -74,6 +74,9 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/payaldtech"
 
+include:
+  - _pages
+
 defaults:
   # _posts
   - scope:
